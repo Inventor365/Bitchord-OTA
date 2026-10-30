@@ -1,3 +1,8 @@
-Build dat: 30/10/2026
-Changelogs:
--update changes listed below
+Build date: 30/10/2026 — BitChord v1.9 (Build 36)
+
+What's New in v1.9:
+- Bit-Perfect Output: Android 14 USB DAC mode, DAP AAudio exclusive mode, and direct USB DAC hardware driver with volume HUD and low-spec DAC format conversion.
+- Video & Podcast Playback: Full music video playback up to 4K and YouTube Music podcast episode streaming.
+- Keep Playlists Updated: Automatic background sync for downloaded playlists + native FFmpeg ALAC decoding.
+- Desktop Browser Sign-In Link & Universal Paste: Copyable login links for Google/YouTube Music and Spotify, 1-click browser profile import on Windows, macOS & Linux, and Paste from Clipboard (cURL, PowerShell, DevTools Cookies table, JSON).
+- Integrated 23+ community PRs: Turkish character matching (#1223), interactive quality source badge (#1200), external Spotify/Apple Music/Deezer/SoundCloud links (#1145), Save queue/radio as playlist (#1174), Galaxy Buds control panel (#983), Chromecast downloaded track casting (#1186), Android TV low-RAM mode (#1044), explicit song blocker (#801), and 0 MB cache disable (#985).
