@@ -1,8 +1,8 @@
-Build date: 30/10/2026 — BitChord v1.9 (Build 36)
+Build date: 08/11/2026
+Release: v1.9.2 (versionCode 40)
+Meticulously crafted by Pranav x Inventor365
 
-What's New in v1.9:
-- Bit-Perfect Output: Android 14 USB DAC mode, DAP AAudio exclusive mode, and direct USB DAC hardware driver with volume HUD and low-spec DAC format conversion.
-- Video & Podcast Playback: Full music video playback up to 4K and YouTube Music podcast episode streaming.
-- Keep Playlists Updated: Automatic background sync for downloaded playlists + native FFmpeg ALAC decoding.
-- Desktop Browser Sign-In Link & Universal Paste: Copyable login links for Google/YouTube Music and Spotify, 1-click browser profile import on Windows, macOS & Linux, and Paste from Clipboard (cURL, PowerShell, DevTools Cookies table, JSON).
-- Integrated 23+ community PRs: Turkish character matching (#1223), interactive quality source badge (#1200), external Spotify/Apple Music/Deezer/SoundCloud links (#1145), Save queue/radio as playlist (#1174), Galaxy Buds control panel (#983), Chromecast downloaded track casting (#1186), Android TV low-RAM mode (#1044), explicit song blocker (#801), and 0 MB cache disable (#985).
+What's New in BitChord-PlusPC v1.9.2:
+- Merged upstream v1.9.1: Android Auto integration (with Automix transitions, browsing & voice search), Playlist Search & Sort, Local Albums/Artists/Artist pages, 3D Album Cover Tilt, Dynamic Cover App Icon, Android 13+ Media Output Switcher, Multi-Select in Local Library & Downloads, Listen Together swipe-to-reply, and 18-script lyrics Romanization + lrc.red provider.
+- Integrated 58 new community PRs (80+ total ahead of upstream): Parametric EQ import/export & headphone presets (#1391), separate Pitch & EQ sheet (#1426), auto-pause on zero volume (#1396), Bluetooth reconnect auto-resume (#1395), pocket hardware volume lock (#1369), remember song/video choice (#1437), Cast queue sync (#1510), resilient queue auto-skip (#1446/#1484/#1487/#1489/#1491), LyricsPlus & SimpMusic providers (#1240/#1250), fullscreen lyrics translation & Romanization (#1308-#1311), interactive lyrics word-tap seek (#1447-#1449), M3U/JSON playlist export/import (#1386/#1389), duplicate song detection (#1399), custom playlist cover art (#1436/#1438), smart offline mode (#1359/#1361), local folder tree & tag editing (#1505-#1515), Material You accent (#1478/#1480/#1482), resizable Glance & Turntable widgets (#1523/#1525), Android TV D-Pad & screensaver polish (#1554/#1558/#1560), Wear OS standalone tile & rotary crown volume (#1570/#1573), and 19 languages (including Arabic & Vietnamese).
+- Hardened macOS, Windows & Linux desktop packages: verified UDIF koly/blkx CRC-32 checksums and HFS+ volumes on macOS .dmg, raw-zlib XAR streams + Bom checksums + Mach-O LC_CODE_SIGNATURE & CodeResources SHA-256 seals on macOS .pkg/.zip, and dedicated OTA updates from Inventor365/BitChord-PlusPC.
