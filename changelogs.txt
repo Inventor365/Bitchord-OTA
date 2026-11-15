@@ -1,8 +1,6 @@
-Build date: 08/11/2026
-Release: v1.9.2 (versionCode 40)
-Meticulously crafted by Pranav x Inventor365
-
-What's New in BitChord-PlusPC v1.9.2:
-- Merged upstream v1.9.1: Android Auto integration (with Automix transitions, browsing & voice search), Playlist Search & Sort, Local Albums/Artists/Artist pages, 3D Album Cover Tilt, Dynamic Cover App Icon, Android 13+ Media Output Switcher, Multi-Select in Local Library & Downloads, Listen Together swipe-to-reply, and 18-script lyrics Romanization + lrc.red provider.
-- Integrated 58 new community PRs (80+ total ahead of upstream): Parametric EQ import/export & headphone presets (#1391), separate Pitch & EQ sheet (#1426), auto-pause on zero volume (#1396), Bluetooth reconnect auto-resume (#1395), pocket hardware volume lock (#1369), remember song/video choice (#1437), Cast queue sync (#1510), resilient queue auto-skip (#1446/#1484/#1487/#1489/#1491), LyricsPlus & SimpMusic providers (#1240/#1250), fullscreen lyrics translation & Romanization (#1308-#1311), interactive lyrics word-tap seek (#1447-#1449), M3U/JSON playlist export/import (#1386/#1389), duplicate song detection (#1399), custom playlist cover art (#1436/#1438), smart offline mode (#1359/#1361), local folder tree & tag editing (#1505-#1515), Material You accent (#1478/#1480/#1482), resizable Glance & Turntable widgets (#1523/#1525), Android TV D-Pad & screensaver polish (#1554/#1558/#1560), Wear OS standalone tile & rotary crown volume (#1570/#1573), and 19 languages (including Arabic & Vietnamese).
-- Hardened macOS, Windows & Linux desktop packages: verified UDIF koly/blkx CRC-32 checksums and HFS+ volumes on macOS .dmg, raw-zlib XAR streams + Bom checksums + Mach-O LC_CODE_SIGNATURE & CodeResources SHA-256 seals on macOS .pkg/.zip, and dedicated OTA updates from Inventor365/BitChord-PlusPC.
+Build date: 15/11/2026
+- First-Party Collaborative Playlists & Contributor Attribution across Android, Desktop (macOS, Windows, Linux) & Web
+- Non-destructive "Make Collaborative" conversion for existing personal playlists + reversible "Stop Sharing"
+- Server-verified Google OpenID Connect (RS256 + OAuth 2.0 PKCE S256) authentication while preserving Guest Mode
+- 30+ newly integrated upstream & community PRs: 256 kbps Premium audio (#1640), Song Credits (#1642), Play Counts (#1723), Library Search (#1724), CSV/M3U/JSON exchange (#1745), LyricClock continuity (#1691), unclipped sweep glow (#1773), and resumable HTTP Range OTA downloads (#1588)
+- Permanent RSA-4096 Android release signing identity across Phone, TV & Wear OS + verified macOS arm64/x64 .dmg, .pkg & .zip installers
