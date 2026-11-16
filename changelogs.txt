@@ -1,6 +1,4 @@
-Build date: 15/11/2026
-- First-Party Collaborative Playlists & Contributor Attribution across Android, Desktop (macOS, Windows, Linux) & Web
-- Non-destructive "Make Collaborative" conversion for existing personal playlists + reversible "Stop Sharing"
-- Server-verified Google OpenID Connect (RS256 + OAuth 2.0 PKCE S256) authentication while preserving Guest Mode
-- 30+ newly integrated upstream & community PRs: 256 kbps Premium audio (#1640), Song Credits (#1642), Play Counts (#1723), Library Search (#1724), CSV/M3U/JSON exchange (#1745), LyricClock continuity (#1691), unclipped sweep glow (#1773), and resumable HTTP Range OTA downloads (#1588)
-- Permanent RSA-4096 Android release signing identity across Phone, TV & Wear OS + verified macOS arm64/x64 .dmg, .pkg & .zip installers
+Build date: 16/11/2026
+- Zero-Config Collaborative Playlists: Signing into BitChord with your Google / YouTube Music account now unlocks Collaborative Playlists automatically across Android, Desktop & Web (no OAuth Client ID or server setup required)
+- Native YouTube Music Collaboration (?list=…&jct=…): Create collaborative playlists, convert existing personal/local/Spotify playlists ('Make Collaborative'), share & join official YouTube Music collaboration links, and close collaboration at any time
+- Seamless in-place Android upgrade from v1.10.0 -> v1.10.1 (versionCode 42, permanent certificate d6d9c697...)
