@@ -1,4 +1,8 @@
-Build date: 16/11/2026
-- Zero-Config Collaborative Playlists: Signing into BitChord with your Google / YouTube Music account now unlocks Collaborative Playlists automatically across Android, Desktop & Web (no OAuth Client ID or server setup required)
-- Native YouTube Music Collaboration (?list=…&jct=…): Create collaborative playlists, convert existing personal/local/Spotify playlists ('Make Collaborative'), share & join official YouTube Music collaboration links, and close collaboration at any time
-- Seamless in-place Android upgrade from v1.10.0 -> v1.10.1 (versionCode 42, permanent certificate d6d9c697...)
+Build date: 17/11/2026
+- Collaborative playlists that work end to end: joining by invite link no longer fails, and any Google account can join — one that has never used YouTube is given its YouTube channel automatically.
+- Make Collaborative carries every song of the original playlist across; converting again tops up what is missing.
+- Faster and clearer: playlists open as soon as they are created, invite links are instant, added songs appear immediately with progress and haptics.
+- Edit a collaborative playlist's title, description and cover.
+- Removing a song, leaving and deleting a playlist now ask first, with haptics and a confirmation.
+- Playback controls on more phones: the notification permission is requested at first playback.
+- macOS packages are built on macOS and install correctly (Apple Silicon and Intel).
