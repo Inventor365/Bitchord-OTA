@@ -1,8 +1,8 @@
 Build date: 17/11/2026
-- Collaborative playlists that work end to end: joining by invite link no longer fails, and any Google account can join — one that has never used YouTube is given its YouTube channel automatically.
-- Make Collaborative carries every song of the original playlist across; converting again tops up what is missing.
-- Faster and clearer: playlists open as soon as they are created, invite links are instant, added songs appear immediately with progress and haptics.
-- Edit a collaborative playlist's title, description and cover.
-- Removing a song, leaving and deleting a playlist now ask first, with haptics and a confirmation.
-- Playback controls on more phones: the notification permission is requested at first playback.
-- macOS packages are built on macOS and install correctly (Apple Silicon and Intel).
+Sonara v2.0.0 — BitChord PlusPC is now Sonara. This update installs over BitChord in place and keeps your library, downloads, settings and sign-in.
+- Home greets you by name and time of day, under the new Sonara mark.
+- Search opens on a grid of moods and genres to browse.
+- Settings leads with your account card, with a coloured icon for every category.
+- An animated welcome, tinted Library folder cards, and cards that respond to touch on 60, 90 and 120 Hz screens.
+- Collaborative playlists: any Google account can join; removing a song, leaving or deleting a playlist asks first.
+- Everything from 1.10.x: reliable invite joins, full playlist conversion, title and cover editing, instant adds.
