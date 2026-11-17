@@ -1,6 +1,6 @@
 Build date: 17/11/2026
-Sonara v2.1.0 — Sonara's own look. Installs over any BitChord PlusPC or Sonara build and keeps your library, downloads, settings and sign-in.
-- Your Sonara Pass: a card with your name, pass number and a soundprint, made on the new welcome.
-- Library is your profile: your Pass, then hours and minutes listened, plays, artists and your top artist.
-- Settings opens on a grid of tiles; playlists and collaborative actions get tiles of their own.
-- Switches glow Sonara red, the tab bar shows icons only, and Home greets you by the name on your Pass.
+Sonara v2.1.1
+- Explore is redrawn: a featured card, titled sections and new mood and genre tiles.
+- The player's play button is a white disc that gives under your finger; times no longer jostle.
+- Collaborative playlists find every playlist you're in, ride out YouTube rate limits, and show the right song count.
+- Works alongside BitChord PlusPC: invite links open in every version, and Windows keeps its collaborative playlists after the rename.
