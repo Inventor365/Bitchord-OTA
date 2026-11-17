@@ -1,6 +1,6 @@
 Build date: 17/11/2026
-Sonara v2.1.1
-- Explore is redrawn: a featured card, titled sections and new mood and genre tiles.
-- The player's play button is a white disc that gives under your finger; times no longer jostle.
-- Collaborative playlists find every playlist you're in, ride out YouTube rate limits, and show the right song count.
-- Works alongside BitChord PlusPC: invite links open in every version, and Windows keeps its collaborative playlists after the rename.
+Sonara v2.1.2
+- Import Apple Music playlists from a public link (Library → Import Apple Music).
+- The player's source and times are back in its own type, with steady digits.
+- Explore and Search tiles keep cover art in the background so titles always read.
+- Native Apple Silicon build for Macs.
