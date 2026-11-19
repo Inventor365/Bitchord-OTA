@@ -1,6 +1,7 @@
-Build date: 17/11/2026
-Sonara v2.1.2
-- Import Apple Music playlists from a public link (Library → Import Apple Music).
-- The player's source and times are back in its own type, with steady digits.
-- Explore and Search tiles keep cover art in the background so titles always read.
-- Native Apple Silicon build for Macs.
+Build date: 19/11/2026
+Sonara v2.1.3
+- Two new themes, Vice and Doom, each with its own home-screen icon (Settings → Appearance → Theme).
+- Data Saver and Low Power Mode, switched from the modes button at the top of the page.
+- Smoother motion: a Refresh rate setting, new page transitions, High Performance without judder.
+- Sign in with a Google account already on your phone; Video off for music videos.
+- Amazon Music import, tab labels, and a fix for the player showing the wrong song.
