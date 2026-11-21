@@ -1,3 +1,11 @@
+Build date: 22/11/2026
+Sonara v2.1.5
+- Everything new in BitChord: AutoMix artwork transitions, a new queue (swipe, Select, Save as playlist, Undo), a Radio tab, new player animations and YouTube Music timed lyrics.
+- 17 community features and fixes: Liked songs and Import Spotify in Library, Keep screen on, Hide the status bar everywhere, no gradient on albums and playlists, a DAC volume switch, and more.
+- Space: the player is the normal one again; the black hole behind it is a switch, off by default.
+- Your listening comes back after a reinstall: stats, Replay, settings and the last song.
+- Search uses your signed-in account, so searches show in your YouTube history.
+
 Build date: 21/11/2026
 Sonara v2.1.4
 - Two new themes: Winter (a live aurora over glaciers, with a day look) and Space (a ray-traced black hole), each with its own home-screen icon.
