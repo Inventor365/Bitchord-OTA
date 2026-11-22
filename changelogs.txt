@@ -1,4 +1,11 @@
 Build date: 22/11/2026
+Sonara v2.1.6
+- Rename your Sonara Pass with the pencil on it; the Library title follows at once.
+- Reset Sonara in Settings → Miscellaneous: the welcome screen again, or erase everything and start fresh.
+- Every theme in view: Appearance shows all five themes at once.
+- A quicker Google sign-in: no "Use this profile" tap for single-channel accounts, and Google's Next pressed for you.
+
+Build date: 22/11/2026
 Sonara v2.1.5
 - Everything new in BitChord: AutoMix artwork transitions, a new queue (swipe, Select, Save as playlist, Undo), a Radio tab, new player animations and YouTube Music timed lyrics.
 - 17 community features and fixes: Liked songs and Import Spotify in Library, Keep screen on, Hide the status bar everywhere, no gradient on albums and playlists, a DAC volume switch, and more.
