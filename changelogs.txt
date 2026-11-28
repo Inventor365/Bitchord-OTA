@@ -1,3 +1,12 @@
+Build date: 28/11/2026
+Sonara v2.1.7
+- Karaoke: turn down the vocals and sing along with the lyrics.
+- DLNA / UPnP speakers in the output drawer next to Cast.
+- Hide from Home, Export as CSV, an A–Z scroller, data usage, and automatic cache cleanup.
+- Adding another Google account works, and accounts added before go straight through.
+- Synced lyrics on Wear OS and a lyrics widget; Last.fm connects again; liked songs show as liked again.
+- 50 improvements from the BitChord community.
+
 Build date: 22/11/2026
 Sonara v2.1.6
 - Rename your Sonara Pass with the pencil on it; the Library title follows at once.
